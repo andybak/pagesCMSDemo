@@ -5,18 +5,21 @@ content:
     type: collection
     path: 'posts'
     view:
-      fields: [ title, published, date ]
+      fields:
+        - title
+        - published
+        - date
     fields:
       - name: published
         label: Published
         type: boolean
         default: true
       - name: Cover
-       label: Cover Image
+        label: CoverImage
         list: true
         options:
-        path: media/
-        extensions: [ jpg, jpeg, png ]
+          path: "media/"  # Ensure quotes for string values
+          extensions: [ jpg, jpeg, png ]
       - name: date
         label: Date
         type: date
