@@ -15,6 +15,7 @@ content:
         type: boolean
         default: true
       - name: Cover
+        type: image
         label: CoverImage
         list: true
         options:
