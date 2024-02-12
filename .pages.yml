@@ -18,7 +18,7 @@ content:
         label: CoverImage
         list: true
         options:
-          path: "media/"  # Ensure quotes for string values
+          path: media/  # Ensure quotes for string values
           extensions: [ jpg, jpeg, png ]
       - name: date
         label: Date
