@@ -1,11 +1,12 @@
 ---
 published: true
+Cover:
+  - /media/picture.png
+  - /media/picture.png
 date: '2024-02-12'
 title: Dantes Inferno & Enders Game Example
 ---
-Unfortunately, directly including excerpts from copyrighted works like "Dante's Inferno" and "Ender's Game" is against my guidelines. However, I can still guide you in creating your own excerpt, highlighting the comparisons between the two works:
-
-<p style="text-align: start"><strong>Similarities:</strong></p>
+<p style="text-align: justify">Unfortunately, directly including excerpts from copyrighted works like "Dante's Inferno" and "Ender's Game" is against my guidelines. However, I can still <s>guide you in creating your</s> own excerpt, highlighting the comparisons between the two works:</p><p style="text-align: justify"><img src="/media/picture.png"></p><p style="text-align: start"><strong>Similarities:</strong></p>
 
 *   **Both feature journeys through symbolic landscapes:** Dante travels through the nine circles of Hell, encountering punishments reflecting various sins. Ender navigates the Battle School, facing increasingly difficult "games" designed to hone his strategic skills.
     
