@@ -14,9 +14,9 @@ content:
       - name: Cover
        label: Cover Image
         list: true
-          options:
-          path: media/
-             extensions: [ jpg, jpeg, png ]
+        options:
+        path: media/
+        extensions: [ jpg, jpeg, png ]
       - name: date
         label: Date
         type: date
